@@ -1,0 +1,9 @@
+google-generativeai
+streamlit
+requests
+beautifulsoup4==4.12.2
+tqdm
+pydotmap
+opencv-python
+numpy
+markdown2
